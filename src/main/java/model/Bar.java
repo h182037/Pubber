@@ -8,6 +8,7 @@ public class Bar {
     private String IMG;
     private Day[] Days;
     private int Age;
+    private int lol;
 
     public Bar() {
         Days = new Day[6];
