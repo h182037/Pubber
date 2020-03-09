@@ -27,7 +27,7 @@
         </pluginRepository>
     </pluginRepositories>
     <properties>
-        <frontend-src-dir>${project.basedir}/src/main/pubber</frontend-src-dir>
+        <frontend-src-dir>${project.basedir}/src/main/pubber/</frontend-src-dir>
         <node.version>v12.16.1</node.version>
         <yarn.version>v1.22.1</yarn.version>
         <frontend-maven-plugin.version>1.7.6</frontend-maven-plugin.version>
@@ -75,10 +75,6 @@
                         </configuration>
                     </execution>
                 </executions>
-            </plugin>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
             <plugin>
                 <groupId>com.github.eirslett</groupId>
