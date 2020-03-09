@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36183d57-693b-4d0b-b22c-432cb1d41634" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/SpringBootHelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/SpringBootHelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +72,13 @@
         </option>
       </MavenSettings>
       <method v="2" />
+    </configuration>
+    <configuration name="SpringBootHelloWorld" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Pubber" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="controllers.SpringBootHelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
   </component>
   <component name="SvnConfiguration">
