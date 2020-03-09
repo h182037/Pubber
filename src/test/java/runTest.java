@@ -11,4 +11,9 @@ public class runTest {
         String s = "always green";
         assertThat(s).isEqualTo("always green");
     }
+    @Test
+    public void failTest() throws Exception {
+        String s = "always green";
+        assertThat(s).isEqualTo("always green");
+    }
 }
