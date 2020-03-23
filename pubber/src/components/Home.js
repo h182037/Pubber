@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div>
         <h1>Pubber</h1>
-        <p>This will be the front page of Pubber!</p>
+        <p>This will be the front page of Pubber</p>
 
         <ul>
             <li>
